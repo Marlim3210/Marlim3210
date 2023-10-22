@@ -22,7 +22,7 @@ network:
         addresses: [192.168.20.10, 192.168.20.1]
   version: 2_
 
-  # Konfigurasi Resolv.conf
+# Konfigurasi Resolv.conf
   nano /etc/resolv.conf
 
 _operation for /etc/resolv.conf.
